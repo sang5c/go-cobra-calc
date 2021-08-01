@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "cc/cmd"
+import "cobra-calc/cmd"
 
 func main() {
 	cmd.Execute()
